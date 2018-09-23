@@ -2,7 +2,7 @@
 #### Asignatura: *Ingeniería Web: Visión General*
 #### [URL del proyecto en GitHub](https://github.com/lelepompom/sandra.ortega.SVC.miw.upm.es)
 #### [URL de Travis-CI](https://travis-ci.org/lelepompom/sandra.ortega.SVC.miw.upm.es)
-#### [URL de Sonarcloud](https://sonarcloud.io/dashboard?id=lelepompom_sandra.ortega.SVC.miw.upm.es)
+#### [URL de Sonarcloud](https://sonarcloud.io/dashboard?id=es.upm.miw%3Asandra.ortega.sanchez.SCV)
 
 ### Tecnologías necesarias
 * Java
